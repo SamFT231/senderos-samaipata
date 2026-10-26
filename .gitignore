@@ -1,0 +1,8 @@
+originales/
+img/originales/
+*.zip
+*.rar
+Thumbs.db
+.DS_Store
+.vscode/
+.env
